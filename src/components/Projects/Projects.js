@@ -58,7 +58,7 @@ hosts can scan passes presented by attendees.NFT holders can view Events for col
             />
           </Col>
 
-          <Col md={4} className='project-card'>
+          {/* <Col md={4} className='project-card'>
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
@@ -87,7 +87,7 @@ hosts can scan passes presented by attendees.NFT holders can view Events for col
               Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
               link='https://github.com/soumyajit4419/Face_And_Emotion_Detection'
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>

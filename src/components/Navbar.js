@@ -98,6 +98,7 @@ function NavBar() {
                 href='https://blogs.soumya-jit.tech/'
                 target='_blank'
                 rel='noreferrer'
+                disabled={true}
               >
                 <ImBlog style={{ marginBottom: '2px' }} /> Blogs
               </Nav.Link>
@@ -105,7 +106,7 @@ function NavBar() {
 
             <Nav.Item className='fork-btn'>
               <Button
-                href='https://github.com/soumyajit4419/Portfolio'
+                href='https://github.com/m-mohsin-iqbal'
                 target='_blank'
                 className='fork-btn-inner'
               >
