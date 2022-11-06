@@ -15,10 +15,10 @@ function AboutCard() {
               className='purple'
               target='_blank'
               rel='noreferrer'
-              href='https://bigbyteinsights.com/'
+              href='https://www.linkedin.com/company/techverx'
               style={{ textDecoration: 'none' }}
             >
-              Big Byte Insights,Ltd
+              Techverx
             </a>
             .
             <br />

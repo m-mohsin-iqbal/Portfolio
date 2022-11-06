@@ -8,9 +8,11 @@ import {
   DiPython,
   DiGit,
   DiStreamline,
+  DiAws,
+  DiMongodb
 } from 'react-icons/di';
 
-import { SiNextdotjs } from 'react-icons/si';
+import { SiNextdotjs, SiStorybook } from 'react-icons/si';
 
 function Techstack() {
   return (
@@ -33,6 +35,19 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className='tech-icons'>
         <CgCPlusPlus />
+      </Col>
+      
+      <Col xs={4} md={2} className='tech-icons'>
+        <SiStorybook />
+        <h4 className='purple'>React Storybook</h4>
+      </Col>
+      <Col xs={4} md={2} className='tech-icons'>
+        <DiMongodb />
+        <h4 className='purple'>Mongoose DB</h4>
+      </Col>
+      <Col xs={4} md={2} className='tech-icons'>
+        <DiAws />
+        <h4 className='purple'>Aws Cloud Practitioner</h4>
       </Col>
       <Col xs={4} md={2} className='tech-icons'>
         <DiGit />

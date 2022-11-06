@@ -8,6 +8,8 @@ import tribeNFT from '../../Assets/Projects/proj3.png';
 import intellistocks from '../../Assets/Projects/proj1.png';
 import suicide from '../../Assets/Projects/suicide.png';
 import coinalgo from '../../Assets/Projects/proj2.png';
+import upperhand from '../../Assets/Projects/upperhand.png';
+import liftoff from '../../Assets/Projects/liftoff.png';
 
 function Projects() {
   return (
@@ -21,6 +23,24 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: 'center', paddingBottom: '10px' }}>
+        <Col md={4} className='project-card'>
+            <ProjectCard
+              imgPath={upperhand}
+              isBlog={false}
+              title='Upperhand'
+              description='Scheduling software for sports facilities and sports training academies.Training athletes is the best part of your day. Upper Hand makes it a priority. With tools like client scheduling, payment processing, communication, and more, you can put tedious admin tasks on autopilot and get back to the court, field, or gym.Upper Hand was created by sports coaches to make sports training easier. Whether you conduct private and group lessons, host camps or clinics, or instruct classes, Upper Hand allows you to configure the software to cater to your business offerings.From the front desk to back office,Streamlines the day-to-day operations at your business.By eliminating manual and time-consuming tasks.'
+              link='https://upperhand.com/'
+            />
+          </Col>
+          <Col md={4} className='project-card'>
+            <ProjectCard
+              imgPath={liftoff}
+              isBlog={false}
+              title='LiftOff Leads And SEO'
+              description='Upperhand handle the tedious technicalities of SEO and lead generation for photographers.We’ll dig into the backend of your site to tweak headings, titles, metadata and more. We’ll spare you the shoptalk, but consider your website optimized.We’ll build a landing page and an oh-so-effective ad campaign. But our work doesn’t stop there. As the leads come in, our proven sales system propels them from prospects to profitable clients.This ROI isn’t hypothetical. Every month you’ll get a simple, easy-to-interpret conversion report. In the meantime, track everything from fresh leads to closed deals in your Mission Control Portal.'
+              link='https://www.liftoffleads.com/'
+            />
+          </Col>
           <Col md={4} className='project-card'>
             <ProjectCard
               imgPath={intellistocks}

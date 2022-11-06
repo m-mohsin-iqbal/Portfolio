@@ -42,6 +42,9 @@ function Home2() {
               <i>
                 <b className='purple'> Selenium</b>
               </i>
+              <br />
+              <br />
+              I am ocassionaly  learn new cloud technologies and aws services to enhance my knowledge of cloud.
             </p>
           </Col>
           <Col md={4} className='myAvtar'>
