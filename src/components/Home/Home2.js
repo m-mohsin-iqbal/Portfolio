@@ -22,7 +22,7 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am experienced Front End Developer having almost 2 year of
+              <br />I am experienced Front End Developer having almost 3 year of
               experience in
               <i>
                 <b className='purple'> React JS. </b>
@@ -42,6 +42,9 @@ function Home2() {
               <i>
                 <b className='purple'> Selenium</b>
               </i>
+              <br />
+              <br />
+              I occasionally  learn new cloud technologies and aws services to enhance my knowledge of cloud computing.
             </p>
           </Col>
           <Col md={4} className='myAvtar'>
