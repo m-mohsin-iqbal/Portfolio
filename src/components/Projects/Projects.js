@@ -37,7 +37,7 @@ function Projects() {
               imgPath={liftoff}
               isBlog={false}
               title='LiftOff Leads And SEO'
-              description='Upperhand handle the tedious technicalities of SEO and lead generation for photographers.We’ll dig into the backend of your site to tweak headings, titles, metadata and more. We’ll spare you the shoptalk, but consider your website optimized.We’ll build a landing page and an oh-so-effective ad campaign. But our work doesn’t stop there. As the leads come in, our proven sales system propels them from prospects to profitable clients.This ROI isn’t hypothetical. Every month you’ll get a simple, easy-to-interpret conversion report. In the meantime, track everything from fresh leads to closed deals in your Mission Control Portal.'
+              description='LiftOff Leads And SEO handle the tedious technicalities of SEO and lead generation for photographers.We’ll dig into the backend of your site to tweak headings, titles, metadata and more. We’ll spare you the shoptalk, but consider your website optimized.We’ll build a landing page and an oh-so-effective ad campaign. But our work doesn’t stop there. As the leads come in, our proven sales system propels them from prospects to profitable clients.This ROI isn’t hypothetical. Every month you’ll get a simple, easy-to-interpret conversion report. In the meantime, track everything from fresh leads to closed deals in your Mission Control Portal.'
               link='https://www.liftoffleads.com/'
             />
           </Col>
